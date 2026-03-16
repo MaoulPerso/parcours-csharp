@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\bin\Debug\net10.0\parcours-csharp.exe
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\bin\Debug\net10.0\parcours-csharp.deps.json
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\bin\Debug\net10.0\parcours-csharp.runtimeconfig.json
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\bin\Debug\net10.0\parcours-csharp.dll
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\bin\Debug\net10.0\parcours-csharp.pdb
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.dll
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\refint\parcours-csharp.dll
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.pdb
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\parcours-csharp.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documents\Ynov\B2\Parcours-Csharp\parcours-csharp\obj\Debug\net10.0\ref\parcours-csharp.dll
