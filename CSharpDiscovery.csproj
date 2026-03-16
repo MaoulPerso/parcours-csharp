@@ -6,6 +6,6 @@
     <RootNamespace>CSharpDiscovery</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-  </PropertyGroup>
+CSharpDiscovery.csproj  </PropertyGroup>
 
 </Project>
