@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parcours-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8386fc02d70ce774e7bd3dc3df4543eb90b80985")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aea4b0a99ca54232b9f515d7ea05c67fcc5f860d")]
 [assembly: System.Reflection.AssemblyProductAttribute("parcours-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parcours-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
