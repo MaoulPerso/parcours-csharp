@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\parcours-csharp.csproj",
-      "projectName": "parcours-csharp",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\parcours-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\CSharpDiscovery.csproj",
+      "projectName": "CSharpDiscovery",
+      "projectPath": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\CSharpDiscovery.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\obj\\",
       "projectStyle": "PackageReference",
