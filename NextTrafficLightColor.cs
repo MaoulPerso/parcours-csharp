@@ -14,7 +14,6 @@ namespace CSharpDiscovery.Quest01
                     return TrafficLightColor.Red;
                 case TrafficLightColor.Green:
                     return TrafficLightColor.Orange;
-                case TrafficLightColor.None:
                 default:
                     return TrafficLightColor.None;
             }
