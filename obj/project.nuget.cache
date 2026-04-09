@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xniFzSz5OAY=",
+  "dgSpecHash": "5S+6MGFIOPs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\OneDrive\\Documents\\Ynov\\B2\\Parcours-Csharp\\parcours-csharp\\CSharpDiscovery.csproj",
+  "projectFilePath": "C:\\Users\\maelc\\Documents\\Ynov\\B2\\parcoursCsharp\\parcours-csharp\\CSharpDiscovery.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+    "C:\\Users\\maelc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\maelc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\maelc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\maelc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
